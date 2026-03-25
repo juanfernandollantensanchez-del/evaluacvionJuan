@@ -1,0 +1,3 @@
+[submodule "repositorioevaluaHamilton"]
+	path = repositorioevaluaHamilton
+	url = git@github.com:compañero/repositorioevaluaHamilton.git
